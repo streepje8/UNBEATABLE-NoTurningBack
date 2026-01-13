@@ -1,22 +1,23 @@
 # UNBEATABLE No Turning Back Mod
 
-This mod makes UNBEATABLE behave more like Muse Dash. All Enemies and obstacles come exclusivly from the right side.  
+This mod makes UNBEATABLE behave more like Muse Dash. All Enemies and obstacles come exclusivly from the right side. This mod is mainly ment as an example for the UNBEATABLE Modding Tool (UBMT). 
 
-## Disclaimer
-PLEASE ONLY USE THIS MOD IN STORY MODE, AS IT GIVES AN UNFAIR ADVANTAGE IN ARCADE MODE!
+## ⚠ Disclaimer
+PLEASE ONLY USE THIS MOD IN STORY MODE, IT GIVES AN UNFAIR ADVANTAGE IN ARCADE MODE AND MAY LEAD TO FUTURE LEADERBOARD BANS!
 
 ## Installation Instructions
 
 ### Via UBMT (Recommended)
 You can download the UNBEATABLE Modding Tool at [https://github.com/streepje8/UBMT](https://github.com/streepje8/UBMT)
 
+#### Installation
 1. Install UNBEATABLE Modding Tool
 2. Mod your game (if it is not modded already)
 3. Select the No Turning Back Mod
 4. Click Install.
 5. Restart your game if it was already running
 
-Uninstallation
+#### Uninstallation
 1. Open UBMT
 2. Navigate to Manage mods
 3. Find the No Turning Back Mod
@@ -36,3 +37,7 @@ Uninstallation
 4. Switch your project to release mode
 5. Build (In rider, press the green hammer on the top
 6. In the bin folder, you will now find UnbeatableNoTurningBack.dll
+
+## Contributing to the mod
+You can open a pull request to contribute to this mod. I made it more as an example for UBMT, so I won't be activly working on it anymore.
+Please make sure to remove your <UnbeatableLocation> from the .csproj when making a pull request

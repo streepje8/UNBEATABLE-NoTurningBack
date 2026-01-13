@@ -4,11 +4,11 @@
 	"CategorySuggestion": "Gameplay",
 	"RankedAllowedSuggestion": false,
 	"Website": "https://github.com/streepje8/UNBEATABLE-NoTurningBack",
-	"BannerURL": "",
+	"BannerURL": "https://github.com/streepje8/UNBEATABLE-NoTurningBack/blob/main/UBMT-Banner.png?raw=true",
 	"Releases": [
 		{
 			"Version": "v1.0.0",
-			"SourceURL": ""
+			"SourceURL": "https://github.com/streepje8/UNBEATABLE-NoTurningBack/releases/download/UBMT-Release/UnbeatableNoTurningBack.dll"
 		}
 	]
 }
